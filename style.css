@@ -1,0 +1,77 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.body-login{
+    background-color: gray;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        min-height: 100vh;
+
+}
+
+.all{
+    position: relative;
+    background-color: lightgray;
+    left: 28px;
+    top: 20px;
+    width: 96%;
+    height: 94%;
+    border-radius: 8px;
+    box-shadow:  0 1rem 1rem rgba(0, 0, 255, 0.253);
+    padding: 2rem;
+}
+
+
+.special{
+    position: relative;
+    display: flex;
+
+
+}
+
+.programka{
+    position: relative;
+    width: 200px;
+}
+
+.track{
+    position: relative;
+    left: 2%;
+}
+
+.batch{
+    position: relative;
+    left: 4%;
+}
+
+.big-btn{
+    position: relative;
+    top: 80px;
+   text-align: center;
+}
+
+/* log in */
+.container h4{
+    position: relative;
+    bottom: 20px;
+    text-align: center;
+}
+.main{
+    padding: 25px;
+    border-radius: 10px;
+    background: lightgray;
+    box-shadow:  0 1rem 1rem rgba(0, 0, 255, 0.253);
+}
+.middle{
+    height:350px;
+    width: 600px;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+
+
